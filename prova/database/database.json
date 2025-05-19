@@ -1,0 +1,20 @@
+{
+  "motoristas": [
+    {
+      "id": "df303968-8790-4478-8d77-c0a34701abce",
+      "nome": "Carlos Silva",
+      "data_nascimento": "1985-09-15",
+      "carteira_habilitacao": "ABC1234567"
+    }
+  ],
+  "onibus": [
+    {
+      "id": "0117d915-3656-45c4-8128-a06447ce6e5a",
+      "placa": "XYZ-1234",
+      "modelo": "Volksbus 17.230",
+      "ano_fabricacao": 2018,
+      "capacidade": 48,
+      "motorista_id": null
+    }
+  ]
+}
